@@ -1,5 +1,4 @@
-**Manuliê Amigurumis: Um Mundo de Fofura em Crochê! - Imersão dev com google Gemini
-
+### **Manuliê Amigurumis: Um Mundo de Fofura em Crochê! - imersão dev com Google Gemini **
 **O que é esse projeto?**
 
 Esse projeto é um site simples e divertido que te permite explorar um universo de amigurumis adoráveis!  Você pode procurar por seus personagens favoritos usando palavras-chave como "crochê", "amigurumi" ou até mesmo o nome de um personagem específico.
