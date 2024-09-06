@@ -1,4 +1,4 @@
-### **Manuliê Amigurumis: Um Mundo de Fofura em Crochê! **
+**Manuliê Amigurumis: Um Mundo de Fofura em Crochê! - Imersão dev com google Gemini
 
 **O que é esse projeto?**
 
@@ -45,11 +45,6 @@ Agradeço a todos que contribuíram para esse projeto, seja com código, ideias 
 
 **#amigurumi #crochê #feitoamao #programação #javascript**
 
-**Observação:** Adapte este readme.md de acordo com as especificidades do seu projeto, como tecnologias utilizadas, funcionalidades e informações de contato. 
-
-**Dicas:**
-
-* **Use emojis:** Emojis ajudam a deixar o readme mais divertido e fácil de entender.
 * **Imagens:** Adicione imagens dos seus amigurumis para deixar o readme mais atrativo.
 * **GIFs:** GIFs animados podem deixar o readme mais dinâmico.
 * **Seja claro e conciso:** Explique as coisas de forma simples e direta.
